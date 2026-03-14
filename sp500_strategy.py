@@ -21,7 +21,7 @@ INDEX_TICKER = '^GSPC'
 INDEX_START_DATE = '1990-01-01'
 LEVERAGE_TICKER = 'UPRO'
 TARGET_ETFS = ['SPY', 'VOO', 'IVV', 'SPYM', 'SSO']
-HTML_PATH = os.path.join(BASE_DIR, 'docs', 'sp500_strategy.html')
+HTML_PATH = os.path.join(BASE_DIR, 'docs', 'index.html')
 
 TICKER_MERGE_MAP = {
     'SPYM': ['SPLG', 'SPYM']
