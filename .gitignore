@@ -1,16 +1,3 @@
-# Python 缓存
 __pycache__/
 *.pyc
-
-# 数据目录
-data/
-*.csv
-
-# 操作系统文件
 .DS_Store
-Thumbs.db
-
-# 编辑器临时文件
-*.swp
-*.swo
-*~
