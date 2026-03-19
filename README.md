@@ -15,4 +15,4 @@
 
 ## 在线访问
 - GitHub Pages：`https://jeencare.github.io/sp500-strategy/`
-- Gitee Pages：`https://jeencare.gitee.io/sp500-strategy/`
+中国大陆 Pages：`https://sp500.cc.cd/`
